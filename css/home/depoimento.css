@@ -13,10 +13,9 @@
 
 .depoimento-conteudo {
   padding: 40px 40px 80px 80px;
-  display: flex;
-  flex-direction: column;
-  align-items: end;
-  overflow: hidden;
+  align-self: end;
+  background: url("../../img/dec/bottom-right-p.svg") no-repeat bottom 40px
+    right 40px;
 }
 
 .depoimento-conteudo blockquote {
